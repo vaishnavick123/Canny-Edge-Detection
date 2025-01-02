@@ -1,4 +1,4 @@
-# Canny Edge Detection Technique for Identifying Tumor in MRI Brain Image
+# Canny Edge Detection
 This project demonstrates the use of a custom implementation of the Canny Edge Detection technique to identify potential tumors in MRI brain images.
 
 # Algorithm
